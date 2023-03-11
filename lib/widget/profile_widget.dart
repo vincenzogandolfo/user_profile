@@ -21,7 +21,6 @@ class ProfileWidget extends StatelessWidget {
     return Center(
       child: Stack(
         children: [
-
           // Immagine Utente
           buildImage(),
           Positioned(

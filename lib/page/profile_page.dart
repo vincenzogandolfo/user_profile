@@ -24,7 +24,6 @@ class _ProfilePageState extends State<ProfilePage> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-
           // Mostra l'Immagine scelta dalla Galleria
 
           ProfileWidget(
